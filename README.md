@@ -2,6 +2,13 @@
 
 A fully responsive e-commerce website for Filipino snacks and junk food, built with pure HTML5 and CSS3. Features mobile-first design with CSS Grid layout and three responsive breakpoints.
 
+## 🌐 Live Demo & Preview
+
+**[👉 View Live Project](https://reno-03.github.io/e-negosyo/)**
+
+![eNegosyo Website Preview](screenshots/screenshot.png)
+*Fully responsive Filipino snack e-commerce site with mobile-first design*
+
 ## 🎯 Project Overview
 
 eNegosyo is a mock online store showcasing popular Filipino snacks like Oishi, Piattos, Chippy, and more. This project represents the culmination of my HTML/CSS fundamentals learning journey, demonstrating responsive design principles and modern layout techniques.
@@ -95,13 +102,6 @@ enegosyo-website/
 │   └── live.png           # Project preview
 └── README.md              # Project documentation
 ```
-
-## 🌐 Live Demo & Preview
-
-**[👉 View Live Project](https://your-username.github.io/enegosyo-website/)**
-
-![eNegosyo Website Preview](screenshots/live.png)
-*Fully responsive Filipino snack e-commerce site with mobile-first design*
 
 ## 💡 Key Implementation Highlights
 
